@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Only for test",
+  "main": "world.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novayadi85/nodejs.git"
+  },
+  "author": "komang novayadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novayadi85/nodejs/issues"
+  },
+  "homepage": "https://github.com/novayadi85/nodejs#readme"
+}
